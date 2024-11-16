@@ -1,0 +1,6 @@
+﻿  Exercicio 013.cpp
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 013\Exercicio 013\Exercicio 013.cpp(10,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 013\Exercicio 013\Exercicio 013.cpp(11,29): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Exercicio 013.vcxproj -> C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 013\Debug\Exercicio 013.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
