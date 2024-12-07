@@ -1,0 +1,8 @@
+﻿  Exercicio 015.cpp
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 015\Exercicio 015\Exercicio 015.cpp(14,23): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 015\Exercicio 015\Exercicio 015.cpp(15,25): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 015\Exercicio 015\Exercicio 015.cpp(16,30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 015\Exercicio 015\Exercicio 015.cpp(5,25): warning C4101: 'salarioLiquido': variável local não referenciada
+  Exercicio 015.vcxproj -> C:\Users\T2\OneDrive\Área de Trabalho\exercicios-c-plus-plus\Exercicio 015\Debug\Exercicio 015.exe
+  'pwsh.exe' não é reconhecido como um comando interno
+  ou externo, um programa operável ou um arquivo em lotes.
